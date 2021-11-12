@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/89616167/141520068-c2cb5d7d-5be2-4ccc-91e8-c1c35f71f4b6.png)
 
-#### Minhas estatísticas
+#### 🔰 Minhas estatísticas
 <div>
 <a href="https://github.com/erikaisc">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikaisc&layout=compact&langs_count=7&theme=dracula"/>
