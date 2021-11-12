@@ -1,14 +1,13 @@
-### ✨Erika Irina✨
-#### Hello, Devs!!
+### ✨Erika Irina de Sousa Cunha✨
+#### Olá, bem vindo(a) ao meu perfil no GitHub!
 
-➡️ Tenho 25 anos, atualmente moro em Natal/RN e sou estudante de Desenvolvimento de Software na Cubos Academy.
-
-➡️ I'm 25 yo, living in Natal/RN (Brazil) and I am a Software Development student at Cubos Academy.
+➡️ Tenho 25 anos, moro em Natal/RN e sou estudante de Desenvolvimento de Software na Cubos Academy (Conclusão em Junho/2022). Atualmente, estou em transição de carreira para a área de programação/desenvolvimento. 
 
 
 #### 📌 Atualmente estou aprendendo.../🌱 I’m currently learning ...?
-
-![image](https://user-images.githubusercontent.com/89616167/141520068-c2cb5d7d-5be2-4ccc-91e8-c1c35f71f4b6.png)
+1. HTML
+2. CSS
+3. JavaScript
 
 #### 🔰 Minhas estatísticas
 <div>
