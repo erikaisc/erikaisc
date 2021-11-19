@@ -16,6 +16,8 @@
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=erikaisc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+  <a href="https://wakatime.com/@604dc574-b498-4086-a563-66d1804a2585"><img src="https://wakatime.com/badge/user/604dc574-b498-4086-a563-66d1804a2585.svg" alt="Total time coded since Nov 16 2021" /></a>
+
 #### 📫 Contatos/ How to reach me:
   📧 erika.irina@gmail.com
   
