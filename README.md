@@ -52,6 +52,11 @@ const erikaIrina = {
     </br>
     </br>
     
+### 📫 Contatos/ How to reach me:
+- LinkedIn: https://www.linkedin.com/in/erikairina/
+- StackOverFlow: https://stackoverflow.com/users/18354215/erika-irina
+- E-mail: erika.irina@gmail.com
+
 
  <div id='english-speaker'>
   </div>
