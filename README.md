@@ -2,9 +2,6 @@
 
 <img align="right" width="350" height="250" alt="cat typing gif" src="https://camo.githubusercontent.com/fe55d03d5d4c092c011ce41d71b756d25ce8ad9c1ee0a017b0a26f889a1ff56e/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3239372f323937302e676966">
 
-##### <img align="left" width="30" height="20" alt="United Kingdom flag" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_the_United_Kingdom_%282-3%29.svg/1200px-Flag_of_the_Unitd_Kingdom_%282-3%29.svg.png">English speaker? You can click <a href='english-speaker'>here!</a> 
-
-
 #### Olá, bem vindo(a/e) ao meu perfil no GitHub!
 
 >int x=10; int y=10; return x+y;
@@ -64,7 +61,7 @@ const erikaIrina = {
 <!--
 
 
-
+##### <img align="left" width="30" height="20" alt="United Kingdom flag" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_the_United_Kingdom_%282-3%29.svg/1200px-Flag_of_the_Unitd_Kingdom_%282-3%29.svg.png">English speaker? You can click <a href='english-speaker'>here!</a> 
 
 **erikaisc/erikaisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
