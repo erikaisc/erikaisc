@@ -51,9 +51,7 @@ const erikaIrina = {
   <a href="https://wakatime.com/@604dc574-b498-4086-a563-66d1804a2585"><img src="https://wakatime.com/badge/user/604dc574-b498-4086-a563-66d1804a2585.svg" alt="Total time coded since Nov 16 2021" /></a>
     </br>
     </br>
-    	![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-    	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-        ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    
 
  <div id='english-speaker'>
   </div>
@@ -80,4 +78,8 @@ Here are some ideas to get you started:
 ### 📫 Contatos/ How to reach me:
 <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' href='https://www.linkedin.com/in/erikairina/'>
 <img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' href='https://stackoverflow.com/users/18354215/erika-irina'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' href='erika.irina@gmail.com'>
+
+	![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+    	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+        ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 -->
