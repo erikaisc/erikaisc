@@ -38,9 +38,9 @@ const erikaIrina = {
 ```
 
 
-<img align="left" width="30" height="30" alt="icon" src="https://cdn-icons.flaticon.com/png/512/868/premium/868311.png?token=exp=1646525750~hmac=27c926d5f811119e7f184eda81e7f813"> 
 
-### Minhas estatísticas
+
+### 📈 Minhas estatísticas
 
 
 <div>
