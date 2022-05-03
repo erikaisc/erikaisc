@@ -25,12 +25,8 @@ const erikaIrina = {
     },
     objetivosAtuais: {
         programacao: ["Colocar minhas habilidades em prática e publicar projetos pessoais", 
-                      "Iniciar e finalizar o '#100DaysofCSS' ou '#100DaysofCode'."],
-                      
-        vidaPessoal: ["Voltar a me exercitar",
-                      "Melhorar meu nível de Inglês(B1 -> B2)",
-                      "Estudar italiano como hobby"
-                      ]
+                      "Iniciar e finalizar o '#100DaysofCSS' ou '#100DaysofCode'."]
+
     }
 };
 ```
