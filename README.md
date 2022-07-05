@@ -12,12 +12,6 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A doida dos gatos, nas horas livres gosto de bordar e garimpar histórias em quadrinhos nacionais. Vivendo a vida no modo aleatório, decidi embarcar no universo da programação em Novembro/2021. Formada pela Cubos Academy no curso de Desenvolvimento de Software (Full Stack).
 
-### 📫 Contatos/ How to reach me:
-* [LinkedIn](https://www.linkedin.com/in/erikairina/) <br>
-* [E-mail](erika.irinasc@gmail.com) <br>
-* [StackOverFlow](https://stackoverflow.com/users/18354215/erika-irina) <br>
-* [WhatsApp](https://wa.me/5584936184939) <br>
-
 ```javascript
 let erikaIrina = {
     pronomes: ["Ela", "Dela"],
@@ -39,7 +33,6 @@ let erikaIrina = {
 
 ### 📈 Minhas estatísticas
 
-
 <div>
 <a href="https://github.com/erikaisc">
 
@@ -51,4 +44,9 @@ let erikaIrina = {
     </br>
     </br>
     
+ ### 📫 Contatos/ How to reach me:
+* [LinkedIn](https://www.linkedin.com/in/erikairina/) <br>
+* [E-mail](erika.irinasc@gmail.com) <br>
+* [StackOverFlow](https://stackoverflow.com/users/18354215/erika-irina) <br>
+* [WhatsApp](https://wa.me/5584936184939) <br>
 
