@@ -10,29 +10,26 @@
 >O Código dá Vinte
 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A doida dos gatos, nas horas livres gosto de bordar e garimpar histórias em quadrinhos nacionais. Vivendo a vida no modo aleatório, decidi embarcar no universo da programação em Novembro/2021. 
-Atualmente estudo Desenvolvimento de Software (Full Stack) na Cubos Academy, com previsão de término de Junho/2022.
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A doida dos gatos, nas horas livres gosto de bordar e garimpar histórias em quadrinhos nacionais. Vivendo a vida no modo aleatório, decidi embarcar no universo da programação em Novembro/2021. Formada pela Cubos Academy no curso de Desenvolvimento de Software (Full Stack).
 
 ```javascript
-const erikaIrina = {
+let erikaIrina = {
     pronomes: ["Ela", "Dela"],
     code: "Javascript",
-    pergunteMeSobre: ["web dev", "tech", "the office/séries de comédia"],
-    tenhoHabilidadesEm: ["JavaScript", "CSS", "HTML"],
+    pergunteMeSobre: ["web dev", "tech", "the office/séries de comédia","gambiarras culinárias"],
+    tenhoHabilidadesEm: ["JavaScript", "CSS", "HTML","React","PostgreSQL","Node.js"],
     estouEstudando: {
-        frontEnd: ['React'],
-        backEnd: ["PostgreSQL"]
+        frontEnd: ["Angular"],
+        backEnd: ["TypeScript","MongoDB"]
     },
     objetivosAtuais: {
         programacao: ["Colocar minhas habilidades em prática e publicar projetos pessoais", 
-                      "Iniciar e finalizar o '#100DaysofCSS' ou '#100DaysofCode'."]
+                      "Conseguir o meu primeiro 'sim' na área de desenvolvimento",
+		      "Aprofundar meus conhecimentos em Data Science/Análise de Dados"]
 
     }
 };
 ```
-
-
-
 
 ### 📈 Minhas estatísticas
 
@@ -49,41 +46,7 @@ const erikaIrina = {
     </br>
     
 ### 📫 Contatos/ How to reach me:
-- LinkedIn: https://www.linkedin.com/in/erikairina/
-- StackOverFlow: https://stackoverflow.com/users/18354215/erika-irina
-- E-mail: erika.irinasc@gmail.com
-
-
- <div id='english-speaker'>
-  </div>
-
-<!--
-
-
-
-
-**erikaisc/erikaisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-### 📫 Contatos/ How to reach me:
-<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' href='https://www.linkedin.com/in/erikairina/'>
-<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' href='https://stackoverflow.com/users/18354215/erika-irina'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' href='erika.irina@gmail.com'>
-
-	![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-    	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-        ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-##### <img align="left" width="30" height="20" alt="United Kingdom flag" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_the_United_Kingdom_%282-3%29.svg/1200px-Flag_of_the_Unitd_Kingdom_%282-3%29.svg.png">English speaker? Click <a href=#>here!</a> 
--->
-
+* [LinkedIn](https://www.linkedin.com/in/erikairina/) <br>
+* [E-mail](erika.irinasc@gmail.com) <br>
+* [StackOverFlow](https://stackoverflow.com/users/18354215/erika-irina) <br>
+* [WhatsApp](https://wa.me/5584936184939) <br>
