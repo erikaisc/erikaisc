@@ -11,9 +11,9 @@
 
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A doida dos gatos, nas horas livres gosto de bordar e garimpar histórias em quadrinhos nacionais. Vivendo a vida no modo aleatório, decidi embarcar no universo da programação em Novembro/2021. Formada pela Cubos Academy no curso de Desenvolvimento de Software (Full Stack).
-
-
-
+<br>
+<br>
+<br>
 
 ```javascript
 let erikaIrina = {
